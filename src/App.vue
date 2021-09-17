@@ -369,6 +369,7 @@ body {
   padding-left: 30px;
   padding-right: 30px;
   position: relative;
+  display: table;
 }
 .playerControl {
   padding: 10px;
